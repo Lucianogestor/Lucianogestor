@@ -9,7 +9,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucianogestor&show_icons=true&count_private=true&hide_border=true&title_color=#9ACD32&icon_color=yellow&text_color=c9d1d9&bg_color=c9d1d9" alt="Luciano Torres Almeida github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoges&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=c9d1d9" />
-  <img align="center" src="./hitler.jpeg"   alt="luciano brigando (FIGHTING) com Hitler" />
+  <img align="center" src="https://github.com/Lucianogestor/Lucianogestor/blob/main/Portf%C3%B3lio%20Luciano%20Git%20Hub.png"   alt="luciano brigando (FIGHTING) com Hitler" />
  <p font color red> FIGHT FOR YOUR DREAMS</p>
 </div>
 
